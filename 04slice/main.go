@@ -55,8 +55,8 @@ func main() {
 	s3 := make([]int, 0) //len(s3)=0;cap(s3)=0;s3!=nil*/
 
 	/*append()为切片动态添加元素	可以添加一个两个多个*/
-	slice4 := 
-
+	slice4 := make([]int, 10)
+	fmt.Println(slice4)
 	/*切片和map混合使用 start*/
 	// var s1 = make([]map[int]string, 10, 10)
 	// fmt.Println(s1)
