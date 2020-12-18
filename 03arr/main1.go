@@ -32,9 +32,12 @@ func main() {
 	/*定义多维数组*/
 	var morearr1 [3][2]int
 	morearr1 = [3][2]int{
-		[2]int{1, 2},
-		[2]int{3, 4},
-		[2]int{5, 6},
+		// [2]int{1, 2},
+		// [2]int{3, 4},
+		// [2]int{5, 6},
+		{1, 2},
+		{3, 4},
+		{5, 6},
 	}
 	fmt.Println(morearr1)
 
