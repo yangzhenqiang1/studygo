@@ -9,7 +9,8 @@ import "fmt"
 //4.[n]*T表示指针数组，*[n]T表示数组指针 。
 
 //自我总结：数组和php区别：必须定义长度和类型 其他基本一致
-func main() {
+// func main() {
+	func main(){
 	/*arr 数组的三种初始化方式 start*/
 
 	//数组的第一种初始化方式

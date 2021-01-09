@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 //数组和其他语言区别	长度和类型作为数组的一部分，所以有一点不同就不可以比较
-func main() {
+func main1() {
 	/*数组定义*/
 	//第一种定义方式
 	a1 := [2]string{"我", "是"}
