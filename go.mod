@@ -3,6 +3,7 @@ module GoStudy
 go 1.15
 
 require (
+	github.com/akavel/rsrc v0.10.2 // indirect
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-playground/validator/v10 v10.5.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
