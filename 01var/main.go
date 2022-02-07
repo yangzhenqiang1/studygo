@@ -32,8 +32,9 @@ func main() {
 	*/
 
 	/*在一行中 初始化定义多个变量*/
-	// var title, content = "标题", "内容"
+	var title, content = "标题", "内容"
 
+	fmt.Printf("%v\n%v\n", title, content)
 	/*声明了pi和e这两个常量之后，在整个程序运行期间它们的值都不能再发生变化了。
 
 	多个常量也可以一起声明：
