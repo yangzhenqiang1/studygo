@@ -13,7 +13,7 @@ func mySum(x, y int) {
 	time := time.Now()
 	sum := x + y
 	fmt.Printf("%v sum:%d\n", time, sum)
-	wg.Done()git 
+	wg.Done()
 }
 
 func main() {

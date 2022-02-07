@@ -1,6 +1,11 @@
 package main
-import "fmt"
+
+import (
+	"fmt"
+)
+
+
 func main() {
 	var ch chan int
-	fmt.Pring(ch)
+	fmt.Print(ch)
 }
